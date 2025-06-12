@@ -1,7 +1,9 @@
 # Faites-une-etude-sur-l-eau-potable
 ### Mission
 Vous êtes consultant data analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
+
 <img width="703" alt="16248045970252_Screenshot 2021-06-27 at 16 35 58" src="https://github.com/user-attachments/assets/95079129-c4d0-4bf8-bd44-b234ce3dfd74" />
+
 DWFA présente 3 domaines d’expertise :
 - Création de services d’accès à l’eau potable
 - Modernisation de services d’accès à l’eau déjà existants
